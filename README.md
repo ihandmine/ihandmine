@@ -7,5 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ihandmine&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihandmine&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=ihandmine)
-![](https://github-immortality.vercel.app/api?username=ihandmine)
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ihandmine&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-immortality.vercel.app/api?username=ihandmine" />

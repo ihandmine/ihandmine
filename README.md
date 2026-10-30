@@ -23,9 +23,11 @@
 ### 📊 我的开源小成绩
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ihandmine&show_icons=true&title_color=E84C88&text_color=5B2E4F&icon_color=E84C88&bg_color=180,FFF0F5,FDE7F0&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihandmine&layout=compact&title_color=E84C88&text_color=5B2E4F&bg_color=180,FFF0F5,FDE7F0&hide_border=true" alt="Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ihandmine&show_icons=true&title_color=E84C88&text_color=5B2E4F&icon_color=E84C88&bg_color=180,FFF0F5,FDE7F0&hide_border=true" alt="Stats" style="max-width: 48%;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ihandmine&layout=compact&title_color=E84C88&text_color=5B2E4F&bg_color=180,FFF0F5,FDE7F0&hide_border=true" alt="Languages" style="max-width: 48%;" />
 </div>
+
+
 
 <br/>
 

@@ -23,7 +23,6 @@
 <!-- 底部像素皮卡丘 -->
 
 <div align="center">
-  <p>👇 谢谢你来看我！送你一只守卫主页的皮卡丘 👇</p>
   <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="140" alt="pixel pikachu" />
   <br/>
 </div>

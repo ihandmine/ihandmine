@@ -21,13 +21,15 @@
 
 <br/>
 
-<!-- 底部像素宝可梦小队 -->
 <div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="120" alt="pikachu" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="120" alt="eevee" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/jigglypuff.gif" width="120" alt="jigglypuff" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="120" alt="squirtle" />
-  <img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" width="120" alt="psyduck" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="100" alt="pikachu" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="100" alt="eevee" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/jigglypuff.gif" width="100" alt="jigglypuff" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="100" alt="squirtle" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" width="100" alt="psyduck" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif" width="100" alt="mew" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/pachirisu.gif" width="100" alt="pachirisu" />
 </div>
+
 
 

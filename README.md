@@ -1,29 +1,33 @@
 
 <div align="center">
 
-  <!-- 打字机效果 -->
-  <h1>Hi there, 欢迎来到 ihandmine 的赛博小窝！🍧</h1>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F78FB3&center=true&vCenter=true&random=false&width=600&lines=%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9BDebug%E7%9A%84%E6%9D%82%E9%A3%9F%E7%B3%BB%E8%90%8C%E6%96%B0%F0%9F%90%BE%3B%E6%97%A5%E5%B8%B8%E6%B2%89%E8%BF%B7%E5%BC%80%E6%BA%90%E4%B8%8E%E8%B4%B4%E8%B4%B4%F0%9F%A7%B8%3B%E4%BB%8A%E5%A4%A9%E4%B9%9F%E6%98%AF%E5%85%83%E6%B0%94%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%81" alt="Typing SVG" />
-
-  <br/>
-
   <!-- 访客计数器：改成英文短标签，不会再截断 -->
   <img src="https://komarev.com/ghpvc/?username=ihandmine&style=flat-square&color=ff69b4&label=Visitors" alt="visitors" />
+  <img alt="followers" src="https://img.shields.io/github/followers/ihandmine?style=flat-square&color=ff69b4&labelColor=555555&label=Followers" />
+  <img alt="stars" src="https://img.shields.io/github/stars/ihandmine?affiliations=OWNER&style=flat-square&color=ff69b4&labelColor=555555&label=Stars" />
+  <img alt="commits" src="https://img.shields.io/github/commit-activity/m/ihandmine/ihandmine?style=flat-square&color=ff69b4&labelColor=555555&label=Commits%2Fmo" />
+  <img alt="prs" src="https://img.shields.io/github/issues-pr/ihandmine/ihandmine?style=flat-square&color=ff69b4&labelColor=555555&label=PRs" />
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/ihandmine/ihandmine?style=flat-square&color=ff69b4&label=Last%20Commit" />
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/ihandmine/ihandmine?style=flat-square&color=ff69b4&label=Repo%20Size" />
+  <img alt="activity" src="https://img.shields.io/github/commit-activity/t/ihandmine/ihandmine?style=flat-square&color=ff69b4" />
 
 </div>
 
-### 🍓 关于我
-- 🐾 **日常状态**：正在把咖啡和奶茶转化为没有 Bug 的代码。
-- 🔮 **近期研究**：对一切好玩、好看的技术特效和无敌魔法脚本感兴趣。
-- 💌 **抓到我**：欢迎在 Issue 区留言或者丢个 PR 来找我贴贴！
+### 🍓 About Me
+- 🐾 **Day job**: Shipping features, squashing bugs, occasionally caffeine-powered debugging at 2 AM.
+- 🔮 **R&D**: Experimenting with creative tech — visual effects, generative tools, and fun little scripts.
+- 💌 **Find me**: File an issue or send a PR, I usually reply fast.
 
 
 <br/>
 
-<!-- 底部像素皮卡丘 -->
-
+<!-- 底部像素宝可梦小队 -->
 <div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="140" alt="pixel pikachu" />
-  <br/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="120" alt="pikachu" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="120" alt="eevee" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/jigglypuff.gif" width="120" alt="jigglypuff" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" width="120" alt="squirtle" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/psyduck.gif" width="120" alt="psyduck" />
 </div>
+
 
